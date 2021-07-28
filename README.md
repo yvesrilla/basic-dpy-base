@@ -12,6 +12,7 @@ Easy to setup. Scroll down to know how to
 • clone the repo by saying `git clone https://github.com/yvesrilla/basic-dpy-base` in your desired folder in your command line
 • run `cd basic-dpy-base` to get **into** the folder of the repo
 • now in your command line (make sure to be in the folder) run `pip install discord.py json`
+
 • then create a `config.json` file. refer to the `config.json.example` file, all section need to be filled in.
 
 ### starting up the bot
