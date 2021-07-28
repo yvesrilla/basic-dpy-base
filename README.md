@@ -1,4 +1,4 @@
-# basic-dpy-bot
+# basic-dpy-base
 A basic discord.py bot with one commands
 
 Easy to setup. Scroll down to know how to
