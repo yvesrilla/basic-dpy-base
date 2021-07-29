@@ -5,6 +5,7 @@ Easy to setup. Scroll down to know how to
 
 ### requirements
 • `python v3.5 or later`
+
 • `git`
 
 
@@ -13,14 +14,16 @@ Easy to setup. Scroll down to know how to
 
 • run `cd basic-dpy-base` to get **into** the folder of the repo
 
-• now in your command line (make sure to be in the folder) run `pip install discord.py json`
+• now in your command line (make sure to be in the folder) run `pip install discord.py`
 
 • then create a `config.json` file. refer to the `config.json.example` file, all section need to be filled in.
 
 ### starting up the bot
 • locate the directory
-• double click on `app.py`
+
+• double click on `app.py
+`
 • bingo
 
 ### helpful resources
-•  [djscord dev portal](https://discord.com/developers/applications)
+•  [discord dev portal](https://discord.com/developers/applications)
