@@ -13,4 +13,4 @@ async def on_ready():
 async def ping(ctx):
     await ctx.send("pong!")
 
-client.run("ODY5NzE1ODU4ODUzODgzOTQ1.YQCQAw.mnwe3lCLs86H4mCmFTh5jmzeKRQ")
+client.run("PASTE_YOUR_BOT_TOKEN_HERE")
